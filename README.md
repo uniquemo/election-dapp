@@ -1,0 +1,3 @@
+- web3.js CDN: https://cdnjs.com/libraries/web3/1.2.2
+- web3.js 文档: https://web3js.readthedocs.io/en/v1.2.2/index.html
+- dapp tutorial: [building-Ethereum-Dapp-with-Integrated-Error-Monitoring](https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/)
